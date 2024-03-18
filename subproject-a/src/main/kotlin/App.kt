@@ -1,2 +1,3 @@
-class App {
+fun main() {
+    println("subproject-a")
 }
