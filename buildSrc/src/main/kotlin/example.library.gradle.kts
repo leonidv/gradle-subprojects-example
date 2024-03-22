@@ -1,0 +1,4 @@
+plugins {
+    id("example.commons")
+}
+
